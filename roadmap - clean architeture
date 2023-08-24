@@ -1,0 +1,90 @@
+Aula 1 - Clean Code, Test-Driven Development e Test Patterns
+04/09/2023 das 19:00 às 22:00
+
+Abertura
+Clean Code
+Test-Driven Development (TDD)
+Test Patterns - Stub, Spy e Mock
+Sessão de Q&A
+Aula 2 - Hexagonal, Refactoring e SOLID
+11/09/2023 das 19:00 às 22:00
+
+Hexagonal Architecture
+SOLID - SRP e DIP
+Code Smells e Técnicas de Refactoring
+Test Patterns - Fake
+Design Patterns - DTO
+Sessão de Q&A
+Aula 3 - Clean Architecture, Design Patterns e SOLID
+18/09/2023 das 19:00 às 22:00
+
+Clean Architecture - Parte 1 (Introdução)
+Clean Architecture - Parte 2 (Backend)
+Frameworks and Drivers
+Interface Adapters
+Use Cases
+Entities
+Design Patterns - Composition Root
+Design Patterns - Adapter
+Design Patterns - Transaction Script e Domain Model
+Design Patterns - Controller
+SOLID - ISP
+Sessão de Q&A
+Aula 4 - Clean Architecture, Design Patterns e SOLID
+25/09/2023 das 19:00 às 22:00
+
+SOLID - OCP
+Design Patterns - Strategy e Dynamic Factory
+Design Patterns - Chain of Responsibility e Template Method
+Clean Architecture - Parte 3 (Frontend)
+Frameworks and Drivers
+Interface Adapters
+Use Cases
+Entities
+Design Patterns - Gateway
+Sessão de Q&A
+Aula 5 - Domain-Driven Design e Microservices
+02/10/2023 das 19:00 às 22:00
+
+Design Patterns - State
+Domain-Driven Design - Parte 1 (Modelagem Estratégica)
+Domain
+Subdomain
+Ubiquitous Language
+Bounded Contexts
+Context Map
+Integration Patterns
+Arquitetura de Microservices
+Escalabilidade
+Independência
+Resiliência
+Sessão de Q&A
+Aula 6 - Domain-Driven Design e Design Patterns
+09/10/2023 das 19:00 às 22:00
+
+Domain-Driven Design - Parte 2 (Modelagem Tática)
+Entities
+Value Objects
+Domain Services
+Aggregates
+Repositories
+Design Patterns - Builder com Static Abstract Factory
+Design Patterns - Abstract Factory
+Design Patterns - Dependency Injection com Registry e Singleton
+Sessão de Q&A
+Aula 7 - Event-Driven Architecture, Design Patterns e SOLID
+16/10/2023 das 19:00 às 22:00
+
+Event-Driven Architecture
+Design Patterns - Command Handler
+Design Patterns - Observer e Mediator
+SOLID - LSP
+Sessão de Q&A
+Aula 8 - CQRS e Design Patterns
+23/10/2023 das 19:00 às 22:00
+
+Design Patterns - Decorator
+CQRS
+Design Patterns - Presenter
+Encerramento
+Sessão de Q&A
